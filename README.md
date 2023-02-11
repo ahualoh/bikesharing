@@ -17,16 +17,22 @@ The data used is for all trips taken in August 2029. There were a total of 2,344
 
 **Length of Time**
 
+![Number of Bike Trips per Minute](https://github.com/ahualoh/bikesharing/blob/main/Images/Bike%20Trips%20per%20Min.png)
+
 The chart shows the number of trips at each duration, up to 60 minutes. While there is data for trips over 60 minutes, the bulk of trips fall below 60 minutes - the the most common trips being 10 minutes. 
 
 The bottom chart shows the distribution of trips including those going to 1 or 2 miles, and you can see that the data stays flat after 60 minutes. 
 
 **The number of bike trips accross hours of day** 
+
+![Number of bike trips accross hours of day ](https://github.com/ahualoh/bikesharing/blob/main/Images/Trips%20per%20Weekday.png)
+
 This chart shows a heatmap of usage through the day per weekday, with yellow being the least number of rides, to red being the most number of rides. 
 
 The most popular weekdays to ride are Thursday through Saturday, with most rides falling between 8am-10am and 4pm-7pm. 
 
 **Gender Data**
+![Gender Data](https://github.com/ahualoh/bikesharing/blob/main/Images/Gender%20Data.png)
 This slide takes the above two charts and duplicates the methods among the gender-identity of the services' users. From the data, it appears that the service's users are predominantly male, but the trends for usage duration and times of day are relatively the same accross genders. 
 
 
